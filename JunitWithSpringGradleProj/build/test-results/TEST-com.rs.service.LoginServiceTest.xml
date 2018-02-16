@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.rs.service.LoginServiceTest" tests="3" skipped="2" failures="0" errors="0" timestamp="2018-02-16T19:33:23" hostname="Sri-PC" time="0.003">
+  <properties/>
+  <testcase name="testVerifyLoginWithNoCredentails" classname="com.rs.service.LoginServiceTest" time="0.0"/>
+  <testcase name="testVerifyLoginWithValidCredentials" classname="com.rs.service.LoginServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testVerifyLoginWithInvalidCredentials" classname="com.rs.service.LoginServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[Service::   class com.rs.dao.LoginDAO$MockitoMock$534373013
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
